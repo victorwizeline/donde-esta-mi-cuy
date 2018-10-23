@@ -1,4 +1,4 @@
-# Donde esta mi cuy?
+# Dónde está mi cuy?
 
 **Dónde está mi cuy?** es un ejemplo de cómo podemos implementar localización en tiempo real usando la ya muy conocida plataforma de desarrollo Firebase en conjunto con la librería GeoFire la cual nos permite hacer consultas de puntos geográficos con un radio definido.
 
