@@ -4,7 +4,7 @@
 
 ## Nota
 
-Si no asististe al workshop **Dónde está mi cuy?** será necesario que obtengas un par de archivos de configuración, el primero es google-services.json, este puede ser generado desde la consola de firebase, el segundo archivo es google_maps_api.xml el cual debe contener un string con nombre google_maps_key este debe incluir el valor un api key generada desde la consola de google.
+Si no asististe al workshop **Dónde está mi cuy?** será necesario que obtengas un par de archivos de configuración, el primero es google-services.json, este puede ser generado desde la consola de firebase, el segundo archivo es google_maps_api.xml el cual debe contener un string con nombre google_maps_key este debe incluir el valor de una api key generada desde la consola de google.
 
 ## Lincencia
 
