@@ -2,11 +2,9 @@
 
 **Dónde está mi cuy?** es un ejemplo de cómo podemos implementar localización en tiempo real usando la ya muy conocida plataforma de desarrollo Firebase en conjunto con la librería GeoFire la cual nos permite hacer consultas de puntos geográficos con un radio definido.
 
-## Requisitos
+## Nota
 
-Para poder ejecutar esta aplicación es necesario preparar un par de configuraciones, lo primero es tener el archivo google-services.json el cual puedes obtener al momento de registrar una nueva aplicación desde la consola de firebase, este archivo debe colocarse dentro de la carpeta app, lo segundo es agregar un nuevo string al archivo strings, el cual debe tener el formato que aparece bajo esta instrucción, solo debes agregar la llave la cual puedes obtener en la consola de desarrollo google.
-
-<string name="google_maps_key" templateMergeStrategy="preserve" translatable="false">TU_LLAVE</string>
+Si no asististe al workshop **Dónde está mi cuy?** será necesario que obtengas un par de archivos de configuración, el primero es google-services.json, este puede ser generado desde la consola de firebase, el segundo archivo es google_maps_api.xml el cual debe contener un string con nombre google_maps_key este debe incluir el valor un api key generada desde la consola de google.
 
 ## Lincencia
 
@@ -23,3 +21,5 @@ Para poder ejecutar esta aplicación es necesario preparar un par de configuraci
     WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
     See the License for the specific language governing permissions and
     limitations under the License.
+    
+    
